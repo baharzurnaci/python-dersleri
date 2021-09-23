@@ -3,3 +3,4 @@ Repo içerisinde yer alacak tüm kodlara ve konu anlatımlarına patika.dev plat
 
 
 This repository contains the following link tutorials. 💻 🚀
+https://app.patika.dev/egitimler/veri-bilimi-patikasi
