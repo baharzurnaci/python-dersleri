@@ -1,6 +1,6 @@
 # Python Basics
-Repo içerisinde yer alacak tüm kodlara ve konu anlatımlarına patika.dev platformunda yer alan https://app.patika.dev/egitimler/veri-bilimi-patikasi adresinden ulaşabilirsiniz. 💻 🚀
+Repo içerisinde yer alacak tüm kodlara ve konu anlatımlarına patika.dev platformunda yer alan https://app.patika.dev/egitimler/veri-bilimi-patikasi adresinden ulaşabilirsiniz. 👩🏼‍💻 🚀
 
 
-This repository contains the following link tutorials. 💻 🚀
+This repository contains the following link tutorials. 💻
 https://app.patika.dev/egitimler/veri-bilimi-patikasi
